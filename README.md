@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ZAYAN
 - 👀 I’m interested in Proggramming
-- 🌱 I’m currently learning React
+- 🌱 I Studied both frontend and backend languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me with gmail @ muhammedzayan331@gmail.com
 - ⚡ Fun fact: im only 13 years old
