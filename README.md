@@ -3,7 +3,7 @@
 - 🌱 I Studied both frontend and backend languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me with gmail @ muhammedzayan331@gmail.com
-- ⚡ Fun fact: im only 13 years old
+- ⚡ Fun fact: im only 14 years old
   
 
 <!---
